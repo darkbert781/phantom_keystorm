@@ -1,0 +1,5 @@
+# Basic install
+pip install -r requirements.txt
+
+# For development (includes optional)
+pip install -r requirements.txt --upgrade
