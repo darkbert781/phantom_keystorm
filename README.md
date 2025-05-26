@@ -34,6 +34,8 @@ Follow the prompts:
     Specify characters (e.g., abc123!@#)
 
     Set output filename (e.g., custom_wordlist.txt)
+![word](https://github.com/user-attachments/assets/d8c09a30-a9be-4158-b100-155532994290)
+
 
 ⚡ Advanced Usage
 One-Line Automation
